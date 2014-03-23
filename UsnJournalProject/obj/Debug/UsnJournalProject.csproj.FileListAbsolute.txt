@@ -1,0 +1,60 @@
+C:\Petzold\WPF\UsnJournalProject\UsnJournalProject\bin\Debug\UsnJournalProject.exe
+C:\Petzold\WPF\UsnJournalProject\UsnJournalProject\bin\Debug\UsnJournalProject.pdb
+C:\Petzold\WPF\UsnJournalProject\UsnJournalProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Petzold\WPF\UsnJournalProject\UsnJournalProject\obj\Debug\App.g.cs
+C:\Petzold\WPF\UsnJournalProject\UsnJournalProject\obj\Debug\UsnJournalProject_MarkupCompile.cache
+C:\Petzold\WPF\UsnJournalProject\UsnJournalProject\obj\Debug\UsnJournalProject.g.resources
+C:\Petzold\WPF\UsnJournalProject\UsnJournalProject\obj\Debug\UsnJournalProject.Properties.Resources.resources
+C:\Petzold\WPF\UsnJournalProject\UsnJournalProject\obj\Debug\UsnJournalProject.csproj.GenerateResource.Cache
+C:\Petzold\WPF\UsnJournalProject\UsnJournalProject\obj\Debug\UsnJournalProject.exe
+C:\Petzold\WPF\UsnJournalProject\UsnJournalProject\obj\Debug\UsnJournalProject.pdb
+C:\Petzold\WPF\UsnJournalProject\UsnJournalProject\obj\Debug\MainWindow.baml
+C:\Petzold\WPF\UsnJournalProject\UsnJournalProject\obj\Debug\MainWindow.g.cs
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\obj\Debug\MainWindow.baml
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\obj\Debug\UsnEntryDetail.baml
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\obj\Debug\VolumeSelectDialog.baml
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\obj\Debug\MainWindow.g.cs
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\obj\Debug\UsnEntryDetail.g.cs
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\obj\Debug\VolumeSelectDialog.g.cs
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\obj\Debug\App.g.cs
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\obj\Debug\UsnJournalProject_MarkupCompile.cache
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\obj\Debug\UsnJournalProject.g.resources
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\obj\Debug\UsnJournalProject.Properties.Resources.resources
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\obj\Debug\UsnJournalProject.csproj.GenerateResource.Cache
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\bin\Debug\UsnJournalProject.exe
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\bin\Debug\UsnJournalProject.pdb
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\obj\Debug\UsnJournalProject.exe
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\obj\Debug\UsnJournalProject.pdb
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject\UsnJournalProject\obj\Debug\UsnJournalProject.exe
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject\UsnJournalProject\obj\Debug\UsnJournalProject.pdb
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject\UsnJournalProject\bin\Debug\UsnJournalProject.exe
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject\UsnJournalProject\bin\Debug\UsnJournalProject.pdb
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject\UsnJournalProject\obj\Debug\EnterFileFilterString.baml
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject\UsnJournalProject\obj\Debug\VolumeSelectDialog.baml
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject\UsnJournalProject\obj\Debug\EnterFileFilterString.g.cs
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject\UsnJournalProject\obj\Debug\MainWindow.g.cs
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject\UsnJournalProject\obj\Debug\VolumeSelectDialog.g.cs
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject\UsnJournalProject\obj\Debug\App.g.cs
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject\UsnJournalProject\obj\Debug\UsnJournalProject_MarkupCompile.cache
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject\UsnJournalProject\obj\Debug\UsnJournalProject_MarkupCompile.lref
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject\UsnJournalProject\obj\Debug\MainWindow.baml
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject\UsnJournalProject\obj\Debug\UsnJournalProject.g.resources
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject\UsnJournalProject\obj\Debug\UsnJournalProject.Properties.Resources.resources
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject\UsnJournalProject\obj\Debug\UsnJournalProject.csproj.GenerateResource.Cache
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject\UsnJournalProject\bin\Debug\UsnJournalProject.exe.config
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject - Kopia (2)\UsnJournalProject\bin\Debug\UsnJournalProject.exe.config
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject - Kopia (2)\UsnJournalProject\obj\Debug\UsnJournalProject.exe
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject - Kopia (2)\UsnJournalProject\obj\Debug\UsnJournalProject.pdb
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject - Kopia (2)\UsnJournalProject\bin\Debug\UsnJournalProject.exe
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject - Kopia (2)\UsnJournalProject\bin\Debug\UsnJournalProject.pdb
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject - Kopia (2)\UsnJournalProject\obj\Debug\VolumeSelectDialog.baml
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject - Kopia (2)\UsnJournalProject\obj\Debug\MainWindow.g.cs
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject - Kopia (2)\UsnJournalProject\obj\Debug\VolumeSelectDialog.g.cs
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject - Kopia (2)\UsnJournalProject\obj\Debug\App.g.cs
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject - Kopia (2)\UsnJournalProject\obj\Debug\UsnJournalProject_MarkupCompile.cache
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject - Kopia (2)\UsnJournalProject\obj\Debug\UsnJournalProject_MarkupCompile.lref
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject - Kopia (2)\UsnJournalProject\obj\Debug\MainWindow.baml
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject - Kopia (2)\UsnJournalProject\obj\Debug\UsnJournalProject.g.resources
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject - Kopia (2)\UsnJournalProject\obj\Debug\UsnJournalProject.Properties.Resources.resources
+C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject - Kopia (2)\UsnJournalProject\obj\Debug\UsnJournalProject.csproj.GenerateResource.Cache

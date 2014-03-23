@@ -1,0 +1,37 @@
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\bin\Release\UsnJournalProject.exe
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\bin\Release\UsnJournalProject.pdb
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\obj\Release\ResolveAssemblyReference.cache
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\obj\Release\MainWindow.baml
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\obj\Release\UsnEntryDetail.baml
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\obj\Release\VolumeSelectDialog.baml
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\obj\Release\MainWindow.g.cs
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\obj\Release\UsnEntryDetail.g.cs
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\obj\Release\VolumeSelectDialog.g.cs
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\obj\Release\App.g.cs
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\obj\Release\UsnJournalProject_MarkupCompile.cache
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\obj\Release\UsnJournalProject.g.resources
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\obj\Release\UsnJournalProject.Properties.Resources.resources
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\obj\Release\UsnJournalProject.csproj.GenerateResource.Cache
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\obj\Release\UsnJournalProject.exe
+C:\Petzold\USN Journal Projects\UsnJournalProject\UsnJournalProject\obj\Release\UsnJournalProject.pdb
+C:\UsnJournalProject\UsnJournalProject\bin\Release\UsnJournalProject.exe
+C:\UsnJournalProject\UsnJournalProject\bin\Release\UsnJournalProject.pdb
+C:\UsnJournalProject\UsnJournalProject\obj\Release\ResolveAssemblyReference.cache
+C:\UsnJournalProject\UsnJournalProject\obj\Release\UsnEntryDetail.baml
+C:\UsnJournalProject\UsnJournalProject\obj\Release\VolumeSelectDialog.baml
+C:\UsnJournalProject\UsnJournalProject\obj\Release\MainWindow.g.cs
+C:\UsnJournalProject\UsnJournalProject\obj\Release\UsnEntryDetail.g.cs
+C:\UsnJournalProject\UsnJournalProject\obj\Release\VolumeSelectDialog.g.cs
+C:\UsnJournalProject\UsnJournalProject\obj\Release\App.g.cs
+C:\UsnJournalProject\UsnJournalProject\obj\Release\UsnJournalProject_MarkupCompile.cache
+C:\UsnJournalProject\UsnJournalProject\obj\Release\UsnJournalProject_MarkupCompile.lref
+C:\UsnJournalProject\UsnJournalProject\obj\Release\MainWindow.baml
+C:\UsnJournalProject\UsnJournalProject\obj\Release\UsnJournalProject.g.resources
+C:\UsnJournalProject\UsnJournalProject\obj\Release\UsnJournalProject.Properties.Resources.resources
+C:\UsnJournalProject\UsnJournalProject\obj\Release\UsnJournalProject.csproj.GenerateResource.Cache
+C:\UsnJournalProject\UsnJournalProject\obj\Release\UsnJournalProject.exe
+C:\UsnJournalProject\UsnJournalProject\obj\Release\UsnJournalProject.pdb
+C:\UsnJournalProject\UsnJournalProject\obj\Release\UpdateUsnStateDialog.baml
+C:\UsnJournalProject\UsnJournalProject\obj\Release\UpdateUsnStateDialog.g.cs
+C:\UsnJournalProject\UsnJournalProject\obj\Release\EnterFileFilterString.baml
+C:\UsnJournalProject\UsnJournalProject\obj\Release\EnterFileFilterString.g.cs
