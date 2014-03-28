@@ -326,16 +326,20 @@ namespace UsnJournalProject
                     label3.Content = sb.ToString();
                     sb = new StringBuilder();
                     string path;
-                    NtfsUsnJournal.UsnJournalReturnCode usnRtnCode = usnJournal.GetPathFromFileReference(item.ParentFileReferenceNumber, out path);
-                    if (usnRtnCode == NtfsUsnJournal.UsnJournalReturnCode.USN_JOURNAL_SUCCESS && 0 != string.Compare(path, "Unavailable", true))
-                    {
-                        sb.AppendFormat("  Ścieżka:    {0}{1}\\", usnJournal.VolumeName.TrimEnd('\\'), path);
-                    }
-                    else
-                    {
-                        sb.AppendFormat("  Ścieżka:    {0}", path);
-                    }
-                    label1.Content = sb.ToString();
+                    Process p = new Process();
+                    p.StartInfo.Arguments = "/c fsutil file queryfilenamebyid C:\\ 0x" + item.ParentFileReferenceNumber.ToString("X16");
+                    p.StartInfo.UseShellExecute = false;
+                    p.StartInfo.FileName = "C:\\Windows\\System32\\cmd.exe";
+                    p.StartInfo.RedirectStandardOutput = true;
+                    p.StartInfo.CreateNoWindow = true;
+                    p.Start();
+                    p.WaitForExit();
+                    StreamReader sr = p.StandardOutput;
+                    path = sr.ReadToEnd();
+                    path.Substring(path.IndexOf('?') + 2);
+                    p.Close();
+                    sb.AppendFormat("  Ścieżka:    " + path.Substring(path.IndexOf('?') + 2));
+                    label1.Text = sb.ToString();
                     sb = new StringBuilder();
                     sb.AppendFormat("   Id pliku: {0}", item.FileReferenceNumber);
                     sb.AppendFormat("\n   Id Rodzica: {0}", item.ParentFileReferenceNumber);
@@ -346,7 +350,7 @@ namespace UsnJournalProject
                         sb.AppendFormat("\n  USN:     {0}", item.USN);
                         AddReasonData(sb, item);
                     }
-                    if (item.IsFile)
+                    /*if (item.IsFile)
                     {
                         string fullPath = System.IO.Path.Combine(path, item.Name);
                         if (File.Exists(fullPath))
@@ -357,7 +361,7 @@ namespace UsnJournalProject
                             sb.AppendFormat("\n  Ost. modyf.:   {0} - {1}", fi.LastWriteTime.ToShortDateString(), fi.LastWriteTime.ToShortTimeString());
                             sb.AppendFormat("\n  Ost. dost.:    {0} - {1}", fi.LastAccessTime.ToShortDateString(), fi.LastAccessTime.ToShortTimeString());
                         }
-                    }
+                    }*/
                     label2.Content = sb.ToString();
                     Visibility = Visibility.Visible;
                 }

@@ -40,8 +40,8 @@
         </StackPanel>
         <StackPanel Margin="290,5,0,0" Name="stackPanel1" Grid.Column="1" Height="256" VerticalAlignment="Top">
             <Label Name="label3" Height="40
-                   " />
-            <Label Name="label1" Height="40" />
+                   " FontStretch="Normal" />
+            <TextBlock Height="42" Name="label1" Text="" TextWrapping="Wrap" />
             <Label Name="label2" Height="175
                    " />
         </StackPanel>

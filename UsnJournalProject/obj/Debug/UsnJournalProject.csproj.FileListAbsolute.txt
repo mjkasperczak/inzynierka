@@ -58,3 +58,18 @@ C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject - Kopia (2)\UsnJou
 C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject - Kopia (2)\UsnJournalProject\obj\Debug\UsnJournalProject.g.resources
 C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject - Kopia (2)\UsnJournalProject\obj\Debug\UsnJournalProject.Properties.Resources.resources
 C:\Users\Mutti\Documents\STUDIA\inżynierka\UsnJournalProject - Kopia (2)\UsnJournalProject\obj\Debug\UsnJournalProject.csproj.GenerateResource.Cache
+C:\Users\Mutti\Desktop\inzynierka\UsnJournalProject\bin\Debug\UsnJournalProject.exe.config
+C:\Users\Mutti\Desktop\inzynierka\UsnJournalProject\obj\Debug\UsnJournalProject.exe
+C:\Users\Mutti\Desktop\inzynierka\UsnJournalProject\obj\Debug\UsnJournalProject.pdb
+C:\Users\Mutti\Desktop\inzynierka\UsnJournalProject\bin\Debug\UsnJournalProject.exe
+C:\Users\Mutti\Desktop\inzynierka\UsnJournalProject\bin\Debug\UsnJournalProject.pdb
+C:\Users\Mutti\Desktop\inzynierka\UsnJournalProject\obj\Debug\VolumeSelectDialog.baml
+C:\Users\Mutti\Desktop\inzynierka\UsnJournalProject\obj\Debug\MainWindow.g.cs
+C:\Users\Mutti\Desktop\inzynierka\UsnJournalProject\obj\Debug\VolumeSelectDialog.g.cs
+C:\Users\Mutti\Desktop\inzynierka\UsnJournalProject\obj\Debug\App.g.cs
+C:\Users\Mutti\Desktop\inzynierka\UsnJournalProject\obj\Debug\UsnJournalProject_MarkupCompile.cache
+C:\Users\Mutti\Desktop\inzynierka\UsnJournalProject\obj\Debug\UsnJournalProject_MarkupCompile.lref
+C:\Users\Mutti\Desktop\inzynierka\UsnJournalProject\obj\Debug\MainWindow.baml
+C:\Users\Mutti\Desktop\inzynierka\UsnJournalProject\obj\Debug\UsnJournalProject.g.resources
+C:\Users\Mutti\Desktop\inzynierka\UsnJournalProject\obj\Debug\UsnJournalProject.Properties.Resources.resources
+C:\Users\Mutti\Desktop\inzynierka\UsnJournalProject\obj\Debug\UsnJournalProject.csproj.GenerateResource.Cache
